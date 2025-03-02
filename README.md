@@ -1,2 +1,2 @@
 # LS2
-This is a simple Rust program that implements a `ls` like command in Rust.
+This is a simple Rust program that implements a `ls` like command.
